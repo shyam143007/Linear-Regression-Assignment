@@ -1,9 +1,9 @@
 # Linear Regression Assignment 
 > **Boom bikes** a bike sharing company, provides bike for money or free to individuals. The company has seen dip during the corona pandemic and want to regain to sustain in the market.
 <br/>
-The company wants to understand 
->1. The variables which are significant in predicting the demand for rentals.
->2. How variables describe bike demands.
+The company wants to understand <br/>
+1. The variables which are significant in predicting the demand for rentals.<br/>
+2. How variables describe bike demands.
 
 ## Table of Contents
 * [General Info](#general-information)
